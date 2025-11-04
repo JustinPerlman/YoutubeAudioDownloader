@@ -1,0 +1,1419 @@
+[
+  {
+    "name" : "EDM",
+    "description" : null,
+    "tracks" : [
+      {
+        "isrc" : "QMFME2305420",
+        "track" : "OK!OK!OK!",
+        "artist" : "ISOxo & Wavedash",
+        "album" : "kidsgonemad!",
+        "service" : "applemusic",
+        "serviceId" : "1711455233"
+      },
+      {
+        "isrc" : "QMFME2305383",
+        "track" : "kidsgonemad!",
+        "artist" : "ISOxo",
+        "album" : "kidsgonemad!",
+        "service" : "applemusic",
+        "serviceId" : "1708074532"
+      },
+      {
+        "isrc" : "ZZOPM2343912",
+        "track" : "dontstopme!",
+        "artist" : "ISOxo",
+        "album" : "kidsgonemad!",
+        "service" : "applemusic",
+        "serviceId" : "1711454721"
+      },
+      {
+        "isrc" : "QMFME2305385",
+        "track" : "MOONSPELL",
+        "artist" : "ISOxo",
+        "album" : "kidsgonemad!",
+        "service" : "applemusic",
+        "serviceId" : "1711454727"
+      },
+      {
+        "isrc" : "QMFME2305400",
+        "track" : "how2fly",
+        "artist" : "ISOxo",
+        "album" : "kidsgonemad!",
+        "service" : "applemusic",
+        "serviceId" : "1711454881"
+      },
+      {
+        "isrc" : "QMBZ92447777",
+        "track" : "feel U luv Me",
+        "artist" : "Knock2",
+        "album" : "feel U luv Me - Single",
+        "service" : "applemusic",
+        "serviceId" : "1764547929"
+      },
+      {
+        "isrc" : "CA5KR2131835",
+        "track" : "Dashstar*",
+        "artist" : "Knock2",
+        "album" : "Dashstar* - Single",
+        "service" : "applemusic",
+        "serviceId" : "1549282459"
+      },
+      {
+        "isrc" : "QMDA72473467",
+        "track" : "come aliv3 (feat. Abi Flynn)",
+        "artist" : "RL Grime & Knock2",
+        "album" : "come aliv3 (feat. Abi Flynn) - Single",
+        "service" : "applemusic",
+        "serviceId" : "1779363138"
+      },
+      {
+        "isrc" : "QM6P42417093",
+        "track" : "SMACK TALK",
+        "artist" : "ISOxo, Knock2, RL Grime & ISOKNOCK",
+        "album" : "SMACK TALK - Single",
+        "service" : "applemusic",
+        "serviceId" : "1751314377"
+      },
+      {
+        "isrc" : "USDM32026001",
+        "track" : "What's the Move (feat. General Degree)",
+        "artist" : "Henry Fong & Knock2",
+        "album" : "What's the Move (feat. General Degree) - Single",
+        "service" : "applemusic",
+        "serviceId" : "1520355240"
+      },
+      {
+        "isrc" : "CA5KR2231603",
+        "track" : "Gettin' Hott",
+        "artist" : "Knock2",
+        "album" : "Gettin' Hott - Single",
+        "service" : "applemusic",
+        "serviceId" : "1618874873"
+      },
+      {
+        "isrc" : "US39N2204824",
+        "track" : "One Chance (feat. Marlhy)",
+        "artist" : "Knock2 & NGHTMRE",
+        "album" : "One Chance (feat. Marlhy) - Single",
+        "service" : "applemusic",
+        "serviceId" : "1711456752"
+      },
+      {
+        "isrc" : "QM6P42472419",
+        "track" : "SIGNAL",
+        "artist" : "ISOKNOCK, ISOxo, Knock2 & London Mars",
+        "album" : "4EVR",
+        "service" : "applemusic",
+        "serviceId" : "1753795088"
+      },
+      {
+        "isrc" : "USA2P2331957",
+        "track" : "Stacks (feat. 24hrs)",
+        "artist" : "Juelz",
+        "album" : "Floorspace",
+        "service" : "applemusic",
+        "serviceId" : "1692954315"
+      },
+      {
+        "isrc" : "USA2P2331951",
+        "track" : "Freaks & Geeks",
+        "artist" : "Juelz",
+        "album" : "Floorspace",
+        "service" : "applemusic",
+        "serviceId" : "1692954760"
+      },
+      {
+        "isrc" : "QMUY42200168",
+        "track" : "2HEARTs (ISOxo Remix)",
+        "artist" : "Knock2",
+        "album" : "niteharts",
+        "service" : "applemusic",
+        "serviceId" : "1704395923"
+      },
+      {
+        "isrc" : "QMUY42200171",
+        "track" : "SAY (ISOxo Remix)",
+        "artist" : "Knock2",
+        "album" : "niteharts",
+        "service" : "applemusic",
+        "serviceId" : "1704396202"
+      },
+      {
+        "isrc" : "QM6P42472446",
+        "track" : "4EVR",
+        "artist" : "ISOKNOCK, ISOxo, Knock2 & cade clair",
+        "album" : "4EVR",
+        "service" : "applemusic",
+        "serviceId" : "1753795097"
+      },
+      {
+        "isrc" : "QMFME2478493",
+        "track" : "rookie",
+        "artist" : "Knock2 & SAYAK DAS",
+        "album" : "nolimit",
+        "service" : "applemusic",
+        "serviceId" : "1784353699"
+      },
+      {
+        "isrc" : "QMFME2478555",
+        "track" : "shake!the!city!",
+        "artist" : "Knock2 & Naliya",
+        "album" : "nolimit",
+        "service" : "applemusic",
+        "serviceId" : "1784353703"
+      },
+      {
+        "isrc" : "QMFME2478621",
+        "track" : "ready 2",
+        "artist" : "Knock2",
+        "album" : "nolimit",
+        "service" : "applemusic",
+        "serviceId" : "1784353728"
+      },
+      {
+        "track" : "nolimit",
+        "album" : "nolimit",
+        "service" : "applemusic",
+        "serviceId" : "1784353994",
+        "artist" : "Knock2 & Lauren larue",
+        "isrc" : "QMFME2478711"
+      },
+      {
+        "track" : "Click (Knock2 Remix)",
+        "album" : "niteharts",
+        "service" : "applemusic",
+        "serviceId" : "1704395532",
+        "artist" : "ISOxo",
+        "isrc" : "QMUY42200164"
+      },
+      {
+        "track" : "crank the bass, play the muzik",
+        "album" : "nolimit",
+        "service" : "applemusic",
+        "serviceId" : "1784353701",
+        "artist" : "Knock2",
+        "isrc" : "QMFME2478524"
+      },
+      {
+        "serviceId" : "1784353706",
+        "isrc" : "QMFME2478573",
+        "album" : "nolimit",
+        "track" : "fw me (dirty)",
+        "artist" : "Knock2 & Rhea Raj",
+        "service" : "applemusic"
+      },
+      {
+        "serviceId" : "1784353716",
+        "isrc" : "QMFME2478614",
+        "album" : "nolimit",
+        "track" : "select@",
+        "artist" : "Knock2",
+        "service" : "applemusic"
+      },
+      {
+        "serviceId" : "1784353973",
+        "isrc" : "QMFME2478639",
+        "album" : "nolimit",
+        "track" : "shyne 4 me (feat. PIAO)",
+        "service" : "applemusic",
+        "artist" : "Knock2, Warren Hue & Holly"
+      },
+      {
+        "serviceId" : "1784353974",
+        "isrc" : "QMFME2478670",
+        "album" : "nolimit",
+        "track" : "fast n slow",
+        "service" : "applemusic",
+        "artist" : "Knock2 & VEDO"
+      },
+      {
+        "serviceId" : "1784353977",
+        "isrc" : "QMFME2478690",
+        "album" : "nolimit",
+        "track" : "my melody",
+        "service" : "applemusic",
+        "artist" : "Knock2 & Sophia Gripari"
+      },
+      {
+        "serviceId" : "1784353984",
+        "isrc" : "QMDA62435301",
+        "album" : "nolimit",
+        "track" : "hold my hand",
+        "service" : "applemusic",
+        "artist" : "Knock2 & Sophia Gripari"
+      },
+      {
+        "serviceId" : "1784353989",
+        "isrc" : "QMFME2478699",
+        "album" : "nolimit",
+        "track" : "day1s",
+        "service" : "applemusic",
+        "artist" : "Knock2, Bee-B & XAELO"
+      },
+      {
+        "serviceId" : "1773993719",
+        "isrc" : "QM24S2406414",
+        "album" : "Fade Together - Single",
+        "track" : "Fade Together",
+        "service" : "applemusic",
+        "artist" : "it's murph"
+      },
+      {
+        "serviceId" : "1784003895",
+        "isrc" : "GBCPZ2322261",
+        "album" : "Losing Control - Single",
+        "track" : "Losing Control",
+        "service" : "applemusic",
+        "artist" : "Odd Mob & OMNOM"
+      },
+      {
+        "serviceId" : "1748171788",
+        "isrc" : "USUG12401003",
+        "album" : "Comfort In Chaos",
+        "track" : "Shiver",
+        "service" : "applemusic",
+        "artist" : "John Summit & HAYLA"
+      },
+      {
+        "serviceId" : "1673828907",
+        "isrc" : "USUG12301338",
+        "album" : "Where You Are - Single",
+        "track" : "Where You Are",
+        "service" : "applemusic",
+        "artist" : "John Summit & HAYLA"
+      },
+      {
+        "serviceId" : "1748172050",
+        "album" : "Comfort In Chaos",
+        "artist" : "John Summit, Sub Focus & Julia Church",
+        "service" : "applemusic",
+        "isrc" : "USUG12402628",
+        "track" : "Go Back"
+      },
+      {
+        "serviceId" : "1676098229",
+        "album" : "Clouds - Single",
+        "artist" : "BUNT. & Nate Traveller",
+        "service" : "applemusic",
+        "isrc" : "QZTBB2202743",
+        "track" : "Clouds"
+      },
+      {
+        "serviceId" : "1670153824",
+        "album" : "Food for the Soul - Single",
+        "artist" : "it's murph",
+        "service" : "applemusic",
+        "isrc" : "QM24S2300657",
+        "track" : "Food for the Soul"
+      },
+      {
+        "serviceId" : "1716618858",
+        "album" : "High and I Like it - Single",
+        "artist" : "it's murph & Evalyn",
+        "service" : "applemusic",
+        "isrc" : "USUG12309589",
+        "track" : "High and I Like it"
+      },
+      {
+        "serviceId" : "1773426006",
+        "album" : "KGM(irl)*",
+        "artist" : "ISOxo & Ninajirachi",
+        "service" : "applemusic",
+        "isrc" : "QMDA62471091",
+        "track" : "SHYPOP (REDUX)"
+      },
+      {
+        "serviceId" : "1773426011",
+        "album" : "KGM(irl)*",
+        "artist" : "ISOxo",
+        "service" : "applemusic",
+        "isrc" : "QMDA62444746",
+        "track" : "i promise"
+      },
+      {
+        "serviceId" : "1777119822",
+        "album" : "The Days (NOTION Remix) - Single",
+        "artist" : "CHRYSTAL & NOTION",
+        "service" : "applemusic",
+        "isrc" : "GBUM72406694",
+        "track" : "The Days (NOTION Remix)"
+      },
+      {
+        "serviceId" : "1663929824",
+        "album" : "ROOM202 - EP",
+        "artist" : "Knock2",
+        "service" : "applemusic",
+        "isrc" : "CA5KR2318989",
+        "track" : "Rock Ur World (feat. fussy)"
+      },
+      {
+        "serviceId" : "1753795071",
+        "album" : "4EVR",
+        "artist" : "ISOKNOCK, ISOxo & Knock2",
+        "service" : "applemusic",
+        "isrc" : "QM6P42472396",
+        "track" : "TROUBLE"
+      },
+      {
+        "serviceId" : "1704395530",
+        "album" : "niteharts",
+        "artist" : "ISOxo",
+        "service" : "applemusic",
+        "isrc" : "QMUY42200163",
+        "track" : "Beam (Knock2 Remix)"
+      },
+      {
+        "serviceId" : "1704395924",
+        "album" : "niteharts",
+        "artist" : "Knock2",
+        "service" : "applemusic",
+        "isrc" : "QMUY42200169",
+        "track" : "SPEAK up! (ISOxo Remix)"
+      },
+      {
+        "serviceId" : "1710275653",
+        "album" : "buttons! - Single",
+        "artist" : "Knock2 & Dillon Francis",
+        "service" : "applemusic",
+        "isrc" : "ZZOPM2344039",
+        "track" : "buttons!"
+      },
+      {
+        "serviceId" : "1773425999",
+        "album" : "KGM(irl)*",
+        "artist" : "ISOxo & fussy",
+        "service" : "applemusic",
+        "isrc" : "QMDA62471064",
+        "track" : "STARsound (pt2)"
+      },
+      {
+        "serviceId" : "1694793164",
+        "album" : "Formula - Single",
+        "artist" : "RL Grime & Juelz",
+        "service" : "applemusic",
+        "isrc" : "QMUY41900143",
+        "track" : "Formula"
+      },
+      {
+        "serviceId" : "1744539930",
+        "album" : "Melancore",
+        "artist" : "Juelz",
+        "service" : "applemusic",
+        "isrc" : "USA2P2425204",
+        "track" : "Light Within"
+      },
+      {
+        "serviceId" : "1692954302",
+        "album" : "Floorspace",
+        "artist" : "Juelz",
+        "service" : "applemusic",
+        "isrc" : "USA2P2331958",
+        "track" : "Rewind (Set Me Off)"
+      },
+      {
+        "serviceId" : "1746383216",
+        "album" : "Drifting in the Dark - Single",
+        "artist" : "RemK",
+        "service" : "applemusic",
+        "isrc" : "CA5KR2459028",
+        "track" : "Drifting in the Dark"
+      },
+      {
+        "serviceId" : "1793159120",
+        "album" : "Dreamin (feat. Daya) - Single",
+        "artist" : "Dom Dolla",
+        "service" : "applemusic",
+        "isrc" : "USQX92407559",
+        "track" : "Dreamin (feat. Daya)"
+      },
+      {
+        "serviceId" : "1749336837",
+        "album" : "girl$ - Single",
+        "artist" : "Dom Dolla",
+        "service" : "applemusic",
+        "isrc" : "USQX92401650",
+        "track" : "girl$"
+      },
+      {
+        "serviceId" : "1764977774",
+        "album" : "CAVE - Single",
+        "artist" : "Dom Dolla & Tove Lo",
+        "service" : "applemusic",
+        "isrc" : "USQX92404437",
+        "track" : "CAVE"
+      },
+      {
+        "serviceId" : "1748184889",
+        "album" : "Vive El Verano 2024",
+        "artist" : "FISHER & Kita Alexander",
+        "service" : "applemusic",
+        "isrc" : "QZA742318982",
+        "track" : "Atmosphere"
+      },
+      {
+        "serviceId" : "1694003069",
+        "album" : "TAKE IT OFF - Single",
+        "artist" : "FISHER & Aatig",
+        "service" : "applemusic",
+        "isrc" : "USAT22306807",
+        "track" : "TAKE IT OFF"
+      },
+      {
+        "serviceId" : "1408454985",
+        "album" : "Losing It - Single",
+        "artist" : "FISHER",
+        "service" : "applemusic",
+        "isrc" : "CA5KR1821202",
+        "track" : "Losing It"
+      },
+      {
+        "serviceId" : "1720073234",
+        "album" : "Push to Start (feat. No\/Me) [T78 Remix] - Single",
+        "artist" : "Noizu & Westend",
+        "service" : "applemusic",
+        "isrc" : "NLRD52264201",
+        "track" : "Push to Start (feat. No\/Me)"
+      },
+      {
+        "serviceId" : "1796357211",
+        "album" : "Drum Death - Single",
+        "artist" : "Westend & HOSANNA",
+        "service" : "applemusic",
+        "isrc" : "USA2P2506606",
+        "track" : "Drum Death"
+      },
+      {
+        "serviceId" : "1538078939",
+        "album" : "Ghostrunner (Original Soundtrack)",
+        "artist" : "Daniel Deluxe",
+        "service" : "applemusic",
+        "isrc" : "QZMEP2097704",
+        "track" : "Let Them Know"
+      },
+      {
+        "serviceId" : "1748200423",
+        "album" : "Bandit (Club Mix) - Single",
+        "artist" : "Don Toliver & Acraze",
+        "service" : "applemusic",
+        "isrc" : "USAT22404281",
+        "track" : "Bandit (Club Mix)"
+      },
+      {
+        "serviceId" : "1783998760",
+        "album" : "What a Life (feat. Stevie Appleton) - Single",
+        "artist" : "John Summit & Guz",
+        "service" : "applemusic",
+        "isrc" : "GBCPZ2221055",
+        "track" : "What a Life (feat. Stevie Appleton)"
+      },
+      {
+        "serviceId" : "1632534359",
+        "album" : "Bad Memories (feat. Elley Duhé & FAST BOY) - Single",
+        "artist" : "MEDUZA & James Carter",
+        "service" : "applemusic",
+        "isrc" : "GBUM72203666",
+        "track" : "Bad Memories (feat. Elley Duhé & FAST BOY)"
+      },
+      {
+        "serviceId" : "1635570436",
+        "album" : "Turn On The Lights again.. (feat. Future) - Single",
+        "artist" : "Fred again.. & Swedish House Mafia",
+        "service" : "applemusic",
+        "isrc" : "GBAHS2201001",
+        "track" : "Turn On The Lights again.. (feat. Future)"
+      },
+      {
+        "serviceId" : "1702959580",
+        "album" : "Dance Hits 2023",
+        "artist" : "Yeah Yeah Yeahs",
+        "service" : "applemusic",
+        "isrc" : "USUM70906794",
+        "track" : "Heads Will Roll (A-Trak Remix)"
+      },
+      {
+        "serviceId" : "1706072044",
+        "album" : "PLAY",
+        "artist" : "RL Grime & 070 Shake",
+        "service" : "applemusic",
+        "isrc" : "USA2P2324650",
+        "track" : "Pour Your Heart Out"
+      },
+      {
+        "serviceId" : "1804192037",
+        "album" : "Toxic - Single",
+        "artist" : "Chris Lake & Ragie Ban",
+        "service" : "applemusic",
+        "isrc" : "USUG12502583",
+        "track" : "Toxic"
+      },
+      {
+        "serviceId" : "1772325979",
+        "album" : "Close Your Eyes - Single",
+        "artist" : "Chris Lake & Walker & Royce",
+        "service" : "applemusic",
+        "isrc" : "QM4TX1826414",
+        "track" : "Drop Top"
+      },
+      {
+        "serviceId" : "1671893661",
+        "album" : "Rhyme Dust - Single",
+        "artist" : "MK & Dom Dolla",
+        "service" : "applemusic",
+        "isrc" : "GBARL2300220",
+        "track" : "Rhyme Dust"
+      },
+      {
+        "serviceId" : "1502424081",
+        "album" : "Pump It Up - Single",
+        "artist" : "Endor",
+        "service" : "applemusic",
+        "isrc" : "GBCPZ1916610",
+        "track" : "Pump It Up"
+      },
+      {
+        "serviceId" : "1639997595",
+        "isrc" : "GBAHS2200844",
+        "artist" : "Fred again..",
+        "track" : "Jungle",
+        "service" : "applemusic",
+        "album" : "Jungle - Hits & Beats"
+      },
+      {
+        "serviceId" : "1804438114",
+        "isrc" : "GXFCP2500072",
+        "artist" : "Chris Lake & Amber Mark",
+        "track" : "In My Head",
+        "service" : "applemusic",
+        "album" : "In My Head - Single"
+      },
+      {
+        "serviceId" : "1781922534",
+        "isrc" : "GBUM72406858",
+        "artist" : "Morgan Seatree & Florence + the Machine",
+        "track" : "Say My Name (Remix)",
+        "service" : "applemusic",
+        "album" : "Say My Name (Remix) - Single"
+      },
+      {
+        "serviceId" : "1791950831",
+        "isrc" : "USA2P2503037",
+        "artist" : "jigitz",
+        "track" : "tell you straight",
+        "service" : "applemusic",
+        "album" : "tell you straight - Single"
+      },
+      {
+        "serviceId" : "1733007503",
+        "isrc" : "SGB502383686",
+        "artist" : "Beachcrimes & Tia Tia",
+        "track" : "Elevator",
+        "service" : "applemusic",
+        "album" : "Pm"
+      },
+      {
+        "serviceId" : "1058740894",
+        "isrc" : "AUDCB1500639",
+        "artist" : "RÜFÜS DU SOL",
+        "track" : "Innerbloom",
+        "service" : "applemusic",
+        "album" : "Bloom"
+      },
+      {
+        "serviceId" : "1585865541",
+        "isrc" : "USRE12100620",
+        "artist" : "RÜFÜS DU SOL",
+        "track" : "On My Knees",
+        "service" : "applemusic",
+        "album" : "Surrender"
+      },
+      {
+        "serviceId" : "1434579576",
+        "isrc" : "USRE11800623",
+        "artist" : "RÜFÜS DU SOL",
+        "track" : "Eyes",
+        "service" : "applemusic",
+        "album" : "SOLACE"
+      },
+      {
+        "serviceId" : "1782597728",
+        "isrc" : "GBCPZ2422741",
+        "artist" : "The Temper Trap",
+        "track" : "Sweet Disposition (John Summit & Silver Panda Remix)",
+        "service" : "applemusic",
+        "album" : "Sweet Disposition (John Summit & Silver Panda Remix) - Single"
+      },
+      {
+        "serviceId" : "1787863738",
+        "isrc" : "GBCPZ2220636",
+        "artist" : "John Summit",
+        "track" : "La Danza",
+        "service" : "applemusic",
+        "album" : "La Danza - Single"
+      },
+      {
+        "serviceId" : "1610150262",
+        "isrc" : "GBAYE2200131",
+        "artist" : "John Summit",
+        "track" : "Human (feat. Echoes) [Aaron Hibell Remix]",
+        "service" : "applemusic",
+        "album" : "Human (feat. Echoes) [Aaron Hibell Remix] - Single"
+      },
+      {
+        "serviceId" : "1801589222",
+        "isrc" : "NL3M12406661",
+        "artist" : "Angrybaby",
+        "track" : "Put It Down",
+        "service" : "applemusic",
+        "album" : "Put It Down - Single"
+      },
+      {
+        "serviceId" : "1746715930",
+        "isrc" : "NLRD52350405",
+        "artist" : "Jake Shore",
+        "track" : "Nights Like These (feat. CLUB INDGO)",
+        "service" : "applemusic",
+        "album" : "Nights Like These (feat. CLUB INDGO) - Single"
+      },
+      {
+        "serviceId" : "1811333176",
+        "isrc" : "GBARL2500591",
+        "artist" : "Calvin Harris & Clementine Douglas",
+        "track" : "Blessings",
+        "service" : "applemusic",
+        "album" : "Blessings - Single"
+      },
+      {
+        "serviceId" : "1772333125",
+        "isrc" : "QMDA61831832",
+        "artist" : "Chris Lake & Alexis Roberts",
+        "track" : "Turn off the Lights",
+        "service" : "applemusic",
+        "album" : "Turn off the Lights - Single"
+      },
+      {
+        "serviceId" : "1750850984",
+        "isrc" : "NL8RL2426487",
+        "artist" : "Max Styler & GENESI",
+        "track" : "See You Sweat",
+        "service" : "applemusic",
+        "album" : "See You Sweat - Single"
+      },
+      {
+        "serviceId" : "1748171797",
+        "isrc" : "USUG12402625",
+        "artist" : "John Summit, Kaskade & Julia Church",
+        "track" : "Resonate",
+        "service" : "applemusic",
+        "album" : "Comfort In Chaos"
+      },
+      {
+        "serviceId" : "1784009383",
+        "isrc" : "GBCPZ2423110",
+        "artist" : "Chris Avantgarde & Kevin de Vries",
+        "track" : "Killa",
+        "service" : "applemusic",
+        "album" : "Killa - Single"
+      },
+      {
+        "serviceId" : "1807342711",
+        "isrc" : "DES232500170",
+        "artist" : "Reiny & EZIA",
+        "track" : "Missing Me",
+        "service" : "applemusic",
+        "album" : "Missing Me - Single"
+      },
+      {
+        "serviceId" : "1810680928",
+        "isrc" : "GBKQU2539054",
+        "artist" : "James Carter",
+        "track" : "This Evening",
+        "service" : "applemusic",
+        "album" : "This Evening - Single"
+      },
+      {
+        "serviceId" : "1668837743",
+        "isrc" : "IT00D0206423",
+        "artist" : "Benny Benassi & The Biz",
+        "track" : "Satisfaction (Uk Radio Edit)",
+        "service" : "applemusic",
+        "album" : "Satisfaction (Benny Benassi Presents The Biz)"
+      },
+      {
+        "serviceId" : "1801093856",
+        "isrc" : "QZHNB2525355",
+        "artist" : "Nèmekko",
+        "track" : "No Stopping The Acid",
+        "service" : "applemusic",
+        "album" : "No Stopping The Acid - Single"
+      },
+      {
+        "serviceId" : "1773635849",
+        "isrc" : "SE6SA2409608",
+        "artist" : "Davron Mananov",
+        "track" : "Hey, It's Me",
+        "service" : "applemusic",
+        "album" : "Hey, It's Me - Single"
+      },
+      {
+        "serviceId" : "1809193029",
+        "isrc" : "QZMWW2516627",
+        "artist" : "NØFACE",
+        "track" : "LOST IN YOUR EYES",
+        "service" : "applemusic",
+        "album" : "LOST IN YOUR EYES - Single"
+      },
+      {
+        "serviceId" : "1803281697",
+        "isrc" : "HKJ962515414",
+        "artist" : "R3HAB, WUKONG & $MUSIC",
+        "track" : "Drip Drip",
+        "service" : "applemusic",
+        "album" : "Drip Drip - Single"
+      },
+      {
+        "serviceId" : "1717173087",
+        "isrc" : "NLT2H2301053",
+        "artist" : "MOONLGHT & No-WiFi",
+        "track" : "Smooth Operator (stillachild Remix)",
+        "service" : "applemusic",
+        "album" : "Smooth Operator (Remixes) - EP"
+      },
+      {
+        "serviceId" : "1802781272",
+        "isrc" : "QZK6P2538540",
+        "artist" : "AGAMI",
+        "track" : "rift",
+        "service" : "applemusic",
+        "album" : "rift - Single"
+      },
+      {
+        "serviceId" : "1796499720",
+        "isrc" : "QZES82502489",
+        "artist" : "CRUNKZ",
+        "track" : "Without You",
+        "service" : "applemusic",
+        "album" : "Without You - Single"
+      },
+      {
+        "serviceId" : "1733560988",
+        "isrc" : "NL8RL2406636",
+        "artist" : "Ian Asher",
+        "track" : "Touch Me",
+        "service" : "applemusic",
+        "album" : "Touch Me - Single"
+      },
+      {
+        "serviceId" : "1789854625",
+        "isrc" : "USUG12500525",
+        "artist" : "John Summit",
+        "track" : "Focus (feat. CLOVES)",
+        "service" : "applemusic",
+        "album" : "Focus (feat. CLOVES) - Single"
+      },
+      {
+        "serviceId" : "1812533287",
+        "isrc" : "CYA112500001",
+        "artist" : "Tiësto, Odd Mob & Goodboys",
+        "track" : "Won’t Be Possible",
+        "service" : "applemusic",
+        "album" : "Won’t Be Possible - Single"
+      },
+      {
+        "serviceId" : "1683013353",
+        "isrc" : "NLRD52319304",
+        "artist" : "James Hype",
+        "track" : "Lose Control",
+        "service" : "applemusic",
+        "album" : "Lose Control - Single"
+      },
+      {
+        "serviceId" : "1693684376",
+        "isrc" : "NLRD52319468",
+        "artist" : "Wax Motif & KURA",
+        "track" : "Lo Que Soy",
+        "service" : "applemusic",
+        "album" : "Lo Que Soy - Single"
+      },
+      {
+        "serviceId" : "1791098133",
+        "isrc" : "DE1FB2500005",
+        "artist" : "WizTheMc & bees & honey",
+        "track" : "Show Me Love",
+        "service" : "applemusic",
+        "album" : "Show Me Love - Single"
+      },
+      {
+        "serviceId" : "1736836113",
+        "isrc" : "NL8RL2409745",
+        "artist" : "Mau P",
+        "track" : "On Again",
+        "service" : "applemusic",
+        "album" : "On Again - Single"
+      },
+      {
+        "serviceId" : "1704395915",
+        "isrc" : "QMUY42200167",
+        "artist" : "ISOxo",
+        "track" : "Aarena (Knock2 Remix)",
+        "service" : "applemusic",
+        "album" : "niteharts"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1757495600",
+        "album" : "Knowubetter - Single",
+        "isrc" : "QZTAT2400650",
+        "track" : "Knowubetter",
+        "artist" : "That Franco"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1752603255",
+        "album" : "Down Low (YDG Remix) [feat. Sorana] - Single",
+        "isrc" : "USUG12403973",
+        "track" : "Down Low (feat. Sorana) [YDG Remix]",
+        "artist" : "it's murph & YDG"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1809401179",
+        "album" : "Body and Mind - Single",
+        "isrc" : "NLM5S2502566",
+        "track" : "Body and Mind",
+        "artist" : "Eleganto & Silver Nova"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1820265798",
+        "album" : "Victory Lap - Single",
+        "isrc" : "GBAHS2500558",
+        "track" : "Victory Lap",
+        "artist" : "Fred again.., Skepta & PlaqueBoyMax"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1840942022",
+        "album" : "USB",
+        "isrc" : null,
+        "track" : "leavemealone",
+        "artist" : "Fred again.. & Baby Keem"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1640463908",
+        "album" : "Actual Life 3 (January 1 - September 9 2022)",
+        "isrc" : "GBAHS2201028",
+        "track" : "Delilah (pull me out of this)",
+        "artist" : "Fred again.. & Delilah Montagu"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1711713806",
+        "album" : "If U Need It - Single",
+        "isrc" : "GBUM72309238",
+        "track" : "If U Need It",
+        "artist" : "Sammy Virji"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1792343134",
+        "album" : "I Guess We’re Not The Same - Single",
+        "isrc" : "GBUM72405695",
+        "track" : "I Guess We're Not The Same",
+        "artist" : "Sammy Virji"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1814574286",
+        "album" : "Cops & Robbers - Single",
+        "isrc" : "GBUM72501973",
+        "track" : "Cops & Robbers",
+        "artist" : "Sammy Virji & Skepta"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1741634639",
+        "album" : "Summertime Blues - Single",
+        "isrc" : "USUG12402645",
+        "track" : "Summertime Blues",
+        "artist" : "Chris Lake, Sammy Virji & Nathan Nicholson"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1814701086",
+        "album" : "Electrified - Single",
+        "isrc" : "GBPQS2500138",
+        "track" : "Electrified (Extended Mix)",
+        "artist" : "SEUNG"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1645283575",
+        "album" : "Drugs From Amsterdam - Single",
+        "isrc" : "GBK6Y2251421",
+        "track" : "Drugs From Amsterdam",
+        "artist" : "Mau P"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1792993808",
+        "album" : "The Less I Know The Better - Single",
+        "isrc" : "USNRS2543977",
+        "track" : "The Less I Know The Better",
+        "artist" : "Mau P"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1810702937",
+        "album" : "Too Big For B-Side - Single",
+        "isrc" : "DEDH72300418",
+        "track" : "Like I Like It",
+        "artist" : "Mau P"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1784012082",
+        "album" : "Merther - Single",
+        "isrc" : "GBCPZ2423810",
+        "track" : "Merther",
+        "artist" : "Mau P"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1804481009",
+        "album" : "Drop In - Single",
+        "isrc" : "USZXT2556755",
+        "track" : "Drop In",
+        "artist" : "Mary Droppinz"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1807812867",
+        "album" : "Downtown - Single",
+        "isrc" : "CAHRE2500068",
+        "track" : "Downtown",
+        "artist" : "Fred Dope & Reverend Haus"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1840942039",
+        "album" : "USB",
+        "isrc" : null,
+        "track" : "Turn On The Lights again.. (feat. Future)",
+        "artist" : "Fred again.. & Swedish House Mafia"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1413832968",
+        "album" : "Body (feat. Brando) - Single",
+        "isrc" : "NLF711710457",
+        "track" : "Body (feat. brando)",
+        "artist" : "Loud Luxury"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1804123467",
+        "album" : "Sommerabend",
+        "isrc" : "USZXT2353100",
+        "track" : "Weak",
+        "artist" : "Vintage Culture, Maverick Sabre & Tom Breu"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1642582823",
+        "album" : "World, Hold On (FISHER Rework) [feat. Steve Edwards] - Single",
+        "isrc" : "FR4E42227000",
+        "track" : "World, Hold On (feat. Steve Edwards) [FISHER Rework]",
+        "artist" : "Bob Sinclar"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1793521401",
+        "album" : "4u (Remixes) - Single",
+        "isrc" : "NLRD52339238",
+        "track" : "4u",
+        "artist" : "Matroda, Martin Ikin & Sian-Lee"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1769790485",
+        "album" : "billieache - Single",
+        "isrc" : "QZDA82495833",
+        "track" : "billieache",
+        "artist" : "AGAMI"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1758406476",
+        "album" : "Boost Up - Single",
+        "isrc" : "USCRR2400003",
+        "track" : "Boost Up",
+        "artist" : "FISHER & Flowdan"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1797817425",
+        "album" : "Stay - Single",
+        "isrc" : "QT47L2500008",
+        "track" : "Stay",
+        "artist" : "FISHER"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1636341073",
+        "album" : "Angels Landing - Single",
+        "isrc" : "CA5KR2268193",
+        "track" : "Angels Landing",
+        "artist" : "ISOxo & FrostTop"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1805658462",
+        "album" : "Through My System - Single",
+        "isrc" : "QM24S2501550",
+        "track" : "Through My System",
+        "artist" : "it's murph, Arlo & Emi Grace"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1824724201",
+        "album" : "Rock Your Body - Single",
+        "isrc" : "GBKQU2567571",
+        "track" : "Rock Your Body",
+        "artist" : "Alex Hobson & DJ Arno"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1807345151",
+        "album" : "Chemistry",
+        "isrc" : "GXFCP2500076",
+        "track" : "Savana",
+        "artist" : "Chris Lake"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1807345153",
+        "album" : "Chemistry",
+        "isrc" : "GXFCP2500072",
+        "track" : "In My Head",
+        "artist" : "Chris Lake & Amber Mark"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1807345155",
+        "album" : "Chemistry",
+        "isrc" : "GXFCP2500079",
+        "track" : "Watch The Sunrise",
+        "artist" : "Chris Lake & Aatig"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1807345280",
+        "album" : "Chemistry",
+        "isrc" : "GXFCP2500087",
+        "track" : "Psycho",
+        "artist" : "Chris Lake"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1807345283",
+        "album" : "Chemistry",
+        "isrc" : "GXFCP2500089",
+        "track" : "Satisfy Me",
+        "artist" : "Chris Lake"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1807345284",
+        "album" : "Chemistry",
+        "isrc" : "GXFCP2500090",
+        "track" : "Falling",
+        "artist" : "Chris Lake, Bonobo & Alexis Roberts"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1793427279",
+        "album" : "About to Lose It - Single",
+        "isrc" : "NL8RL2501767",
+        "track" : "About to Lose It",
+        "artist" : "Matroda"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "1791736475",
+        "album" : "Don't Wake Me Up - Single",
+        "isrc" : "GBUM72500069",
+        "track" : "Don't Wake Me Up",
+        "artist" : "James Hype"
+      },
+      {
+        "serviceId" : "1662738341",
+        "isrc" : "CA5KR2261726",
+        "track" : "Dashstar* VIP",
+        "album" : "dashstar* VIP - Single",
+        "service" : "applemusic",
+        "artist" : "Knock2"
+      },
+      {
+        "serviceId" : "1818761158",
+        "isrc" : null,
+        "track" : "No Broke Boys",
+        "album" : "No Broke Boys - Single",
+        "service" : "applemusic",
+        "artist" : "Disco Lines & Tinashe"
+      },
+      {
+        "serviceId" : "1632164840",
+        "isrc" : null,
+        "track" : "B€NZ (feat. Syaqish)",
+        "album" : "B€NZ (feat. Syaqish) - Single",
+        "service" : "applemusic",
+        "artist" : "€URO TRA$H & Yellow Claw"
+      },
+      {
+        "serviceId" : "1656467700",
+        "isrc" : null,
+        "track" : "COULD BE WRONG",
+        "album" : "COULD BE WRONG - Single",
+        "service" : "applemusic",
+        "artist" : "LOSTBOYJAY"
+      },
+      {
+        "serviceId" : "1751763256",
+        "isrc" : null,
+        "track" : "TRIPPIN",
+        "album" : "TRIPPIN - Single",
+        "service" : "applemusic",
+        "artist" : "BUNT. & Mapei"
+      },
+      {
+        "serviceId" : "1783945658",
+        "isrc" : null,
+        "track" : "Push Pull (Club Mix)",
+        "album" : "Push Pull (Club Mix) - Single",
+        "service" : "applemusic",
+        "artist" : "OFFAIAH"
+      },
+      {
+        "serviceId" : "1807345148",
+        "isrc" : null,
+        "track" : "On & On",
+        "album" : "Chemistry",
+        "service" : "applemusic",
+        "artist" : "Chris Lake & Yael Watchman"
+      },
+      {
+        "serviceId" : "1807345152",
+        "isrc" : null,
+        "track" : "Reach For You",
+        "album" : "Chemistry",
+        "service" : "applemusic",
+        "artist" : "Chris Lake, MPH & Kelly Lee Owens"
+      },
+      {
+        "serviceId" : "1807345154",
+        "isrc" : null,
+        "track" : "Favourite One",
+        "album" : "Chemistry",
+        "service" : "applemusic",
+        "artist" : "Chris Lake & Black Lotus"
+      },
+      {
+        "serviceId" : "1807345281",
+        "isrc" : null,
+        "track" : "Jungle",
+        "album" : "Chemistry",
+        "service" : "applemusic",
+        "artist" : "Chris Lake & Black Lotus"
+      },
+      {
+        "serviceId" : "1807345156",
+        "isrc" : null,
+        "track" : "Ease My Mind",
+        "album" : "Chemistry",
+        "service" : "applemusic",
+        "artist" : "Chris Lake & Abel Balder"
+      },
+      {
+        "serviceId" : "1807345158",
+        "isrc" : null,
+        "track" : "Round After Round",
+        "album" : "Chemistry",
+        "service" : "applemusic",
+        "artist" : "Chris Lake & Riovaz"
+      },
+      {
+        "serviceId" : "1478467953",
+        "isrc" : null,
+        "track" : "Baby Baby",
+        "album" : "Baby Baby - Single",
+        "service" : "applemusic",
+        "artist" : "Noizu"
+      },
+      {
+        "serviceId" : "1689979358",
+        "isrc" : null,
+        "track" : "Beggin'",
+        "album" : "MYCELiUM",
+        "service" : "applemusic",
+        "artist" : "Chris Lake & Aluna"
+      },
+      {
+        "serviceId" : "1711454873",
+        "isrc" : null,
+        "track" : "PRESSURE",
+        "album" : "kidsgonemad!",
+        "service" : "applemusic",
+        "artist" : "ISOxo"
+      },
+      {
+        "serviceId" : "1819697265",
+        "isrc" : null,
+        "track" : "925",
+        "album" : "Same Day Cleaning",
+        "service" : "applemusic",
+        "artist" : "Sammy Virji, Chris Lake & RoRo"
+      },
+      {
+        "serviceId" : "1841935234",
+        "isrc" : null,
+        "track" : "LA NOCHE",
+        "album" : "LA NOCHE - Single",
+        "service" : "applemusic",
+        "artist" : "Chris Lake, Skrillex & Anita B Queen"
+      },
+      {
+        "serviceId" : "1769233501",
+        "isrc" : null,
+        "track" : "Nonstop",
+        "album" : "Discothèque Records Vol. 5",
+        "service" : "applemusic",
+        "artist" : "Lackmus & Confession"
+      },
+      {
+        "serviceId" : "1848220834",
+        "isrc" : null,
+        "track" : "Fuze",
+        "album" : "Fuze - Single",
+        "service" : "applemusic",
+        "artist" : "Skrillex & ISOxo"
+      },
+      {
+        "serviceId" : "1841743206",
+        "isrc" : null,
+        "track" : "No Broke Boys (AVELLO Remix)",
+        "album" : "No Broke Boys (AVELLO Remix) - Single",
+        "service" : "applemusic",
+        "artist" : "Disco Lines & Tinashe"
+      },
+      {
+        "serviceId" : "1823958710",
+        "isrc" : null,
+        "track" : "White Wine & Adderall",
+        "album" : "White Wine & Adderall - Single",
+        "service" : "applemusic",
+        "artist" : "The Chainsmokers & Beau Nox"
+      },
+      {
+        "serviceId" : "1803213778",
+        "isrc" : null,
+        "track" : "Here In Your Arms (Ely Oaks Remix)",
+        "album" : "Here In Your Arms (Ely Oaks Remix) - Single",
+        "service" : "applemusic",
+        "artist" : "Nathan Dawe & Abi Flynn"
+      },
+      {
+        "serviceId" : "1440861908",
+        "isrc" : null,
+        "track" : "Spectrum (feat. Matthew Koma)",
+        "album" : "Clarity",
+        "service" : "applemusic",
+        "artist" : "Zedd"
+      },
+      {
+        "serviceId" : "1753795073",
+        "isrc" : null,
+        "track" : "ENERGY",
+        "album" : "4EVR",
+        "service" : "applemusic",
+        "artist" : "ISOKNOCK, ISOxo, Knock2 & Bantu"
+      },
+      {
+        "serviceId" : "1823989291",
+        "isrc" : null,
+        "track" : "Middle",
+        "album" : "Middle - Single",
+        "service" : "applemusic",
+        "artist" : "Noizu"
+      },
+      {
+        "serviceId" : "1787190044",
+        "isrc" : null,
+        "track" : "Dress Code",
+        "album" : "Dress Code - Single",
+        "service" : "applemusic",
+        "artist" : "Mau P"
+      },
+      {
+        "serviceId" : "1834237477",
+        "isrc" : null,
+        "track" : "Up Down (feat. TyriqueOrDie)",
+        "album" : "Up Down (feat. TyriqueOrDie) - Single",
+        "service" : "applemusic",
+        "artist" : "bradeazy"
+      },
+      {
+        "serviceId" : "1837402870",
+        "isrc" : null,
+        "track" : "Match My Mood",
+        "album" : "Same Day Cleaning",
+        "service" : "applemusic",
+        "artist" : "Sammy Virji, Spice & Flowdan"
+      },
+      {
+        "serviceId" : "1676611187",
+        "isrc" : null,
+        "track" : "Peach",
+        "album" : "Shield - EP",
+        "service" : "applemusic",
+        "artist" : "salute & Sammy Virji"
+      },
+      {
+        "serviceId" : "1446718512",
+        "isrc" : null,
+        "track" : "Believing",
+        "album" : "Believing - Single",
+        "service" : "applemusic",
+        "artist" : "Sammy Virji"
+      },
+      {
+        "serviceId" : "1446784271",
+        "isrc" : null,
+        "track" : "Find My Way Home",
+        "album" : "Find My Way Home - Single",
+        "service" : "applemusic",
+        "artist" : "Sammy Virji"
+      },
+      {
+        "serviceId" : "1454818194",
+        "isrc" : null,
+        "track" : "Take It",
+        "album" : "Take It - Single",
+        "service" : "applemusic",
+        "artist" : "Dom Dolla"
+      },
+      {
+        "serviceId" : "1556428051",
+        "isrc" : null,
+        "track" : "Pump the Brakes",
+        "album" : "Pump the Brakes - Single",
+        "service" : "applemusic",
+        "artist" : "Dom Dolla"
+      }
+    ],
+    "service" : "applemusic",
+    "serviceId" : "p.V7VY8EDCZQzpe7Z",
+    "snapshotId" : null
+  }
+]
