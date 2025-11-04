@@ -1,4 +1,5 @@
 /downloads
+/downloads_csv
 .env
 /venv
 __pycache__/
