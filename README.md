@@ -1,4 +1,4 @@
-# YouTube MP3 Downloader
+# YouTube Audio Downloader
 
 A Python script that automates downloading audio tracks from YouTube based on a JSON playlist file. The script searches YouTube for each track and downloads the audio in M4A format.
 
