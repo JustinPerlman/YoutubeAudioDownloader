@@ -26,7 +26,7 @@ A Python tool that automates downloading audio tracks from YouTube based on eith
 
 ```bash
 git clone https://github.com/JustinPerlman/YoutubeMP3Downloader.git
-cd YoutubeMP3Downloader
+cd YoutubeAudioDownloader
 ```
 
 2. Install yt-dlp:
@@ -73,7 +73,7 @@ Use the iOS app [Songshift](https://www.songshift.com/) to export a playlist fro
 
 ### CSV Format
 
-The CSV file should contain at minimum these columns:
+Use [Exportify](https://exportify.net/) to export a Spotify playlist to CSV. The CSV file should contain at minimum these columns:
 
 - `Artist Name(s)`: The name of the artist(s)
 - `Track Name`: The name of the song
