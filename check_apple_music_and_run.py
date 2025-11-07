@@ -173,7 +173,7 @@ def main():
     parser = argparse.ArgumentParser(description="Detect new songs in an Apple Music playlist and run csvDownloader on them.")
     parser.add_argument("--playlist", required=True, help="Name of the playlist in the macOS Music app to check")
     parser.add_argument("--out-csv", default=None, help="Path to write the new-songs CSV (default: temporary file)")
-    parser.add_argument("--output-dir", default="downloads", help="Directory where downloads will be stored")
+    parser.add_argument("--output-dir", default="/Users/justinperlman/Music/EDM_Justin", help="Directory where downloads will be stored")
     parser.add_argument("--dry-run", action="store_true", help="Only print which songs would be added / downloaded, don't run downloader")
     args = parser.parse_args()
 
