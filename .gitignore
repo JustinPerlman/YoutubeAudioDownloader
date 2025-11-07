@@ -9,3 +9,13 @@
 
 # Ignore Python cache files
 __pycache__/
+
+# Ignore music files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.m4a
+*.wma
+*.alac
