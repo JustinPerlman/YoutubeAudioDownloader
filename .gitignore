@@ -1,8 +1,9 @@
 # Ignore files and directories created during runtime
 /downloads
 /downloads_csv
-.zip
 /csv
+/playlists
+.zip
 
 # Ignore environment files and virtual environments
 .env

@@ -26,7 +26,7 @@ from typing import List, Tuple
 
 TRACK_NAME_COLUMN = "Track Name"
 ARTIST_NAME_COLUMN = "Artist Name(s)"
-HISTORY_CSV = "EDM_Justin.csv"  # Stores all previously processed songs
+HISTORY_CSV = "playlists/EDM_Justin.csv"  # Stores all previously processed songs
 
 
 def read_processed_set(csv_path: str) -> set:
