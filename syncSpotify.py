@@ -1,7 +1,7 @@
 """syncSpotify.py
 ------------------
 Fetch a Spotify playlist and download only the tracks not yet present in the
-local per‑playlist history CSV. History lives in `playlists/<playlist_id>.csv`.
+local per-playlist history CSV. History lives in `playlists/<playlist_id>.csv`.
 
 Workflow:
 1. Resolve playlist ID from URL/URI/raw ID.
