@@ -34,7 +34,9 @@ Automatically sync your Spotify playlists to local audio files. This app downloa
 
 4. Records successful downloads so they're skipped next time## Installation
 
-## Installation1. Clone this repository:
+## Installation
+
+1. Clone this repository:
 
 ### Prerequisites```bash
 
@@ -54,7 +56,7 @@ git clone https://github.com/JustinPerlman/YoutubeMP3Downloader.git
 
 **1. Clone and navigate to the repo:**python -m venv .venv
 
-```bash..venv\Scripts\Activate.ps1
+```bash ..venv\Scripts\Activate.ps1
 
 git clone https://github.com/JustinPerlman/YoutubeAudioDownloader.gitpip install --upgrade pip
 
