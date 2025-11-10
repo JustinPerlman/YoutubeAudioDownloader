@@ -22,7 +22,7 @@ Automatically download new tracks from your Spotify playlists. Remembers what yo
 
 ---
 
-## How It Works##
+## How It Works
 
 1. Fetches all tracks from your Spotify playlist via the Spotify API1. Fetches all tracks from your Spotify playlist via the Spotify API
 
@@ -34,9 +34,9 @@ Automatically download new tracks from your Spotify playlists. Remembers what yo
 
 ---
 
-## Installation##
+## Installation
 
-### Prerequisites###
+### Prerequisites
 
 - Python 3.7+- Python 3.7+
 
@@ -46,7 +46,7 @@ Automatically download new tracks from your Spotify playlists. Remembers what yo
 
 - Spotify API credentials (free)- Spotify API credentials (free)
 
-### Setup Steps###
+### Setup Steps
 
 **1. Clone the repository:**
 
