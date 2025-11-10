@@ -22,7 +22,6 @@ Note: This script does not install dependencies or run the downloader automatica
 
 import argparse
 import csv
-import datetime
 import os
 import sys
 import tempfile
