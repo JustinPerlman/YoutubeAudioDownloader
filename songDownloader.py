@@ -16,7 +16,7 @@ def _build_command(search_query: str, output_template: str) -> List[str]:
         "yt-dlp",
         "-x",  # extract audio
         "--audio-format",
-        "m4a",  # AAC in m4a for wide compatibility
+        "mp3",  # MP3 format
         "--audio-quality",
         "0",  # best available quality
         "--quiet",  # keep stdout clean for callers
@@ -40,7 +40,7 @@ def download_song(track_name: str, artist: str, download_folder: str) -> bool:
     if not os.path.exists(download_folder):
         os.makedirs(download_folder, exist_ok=True)
     search_query = f"{artist} - {track_name}"
-    output_template = os.path.join(download_folder, f"{artist} - {track_name}.%(ext)s")
+    output_template = os.path.join(download_folder, f"{track_name}.%(ext)s")
     command = _build_command(search_query, output_template)
     try:
         subprocess.run(command, check=True, capture_output=True, text=True)

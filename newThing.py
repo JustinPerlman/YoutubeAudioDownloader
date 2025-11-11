@@ -5,12 +5,11 @@ from dotenv import load_dotenv
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
-from yt_dlp import YoutubeDL
-from mutagen.easyid3 import EasyID3
 from mutagen.mp3 import MP3
 from mutagen.id3 import ID3, APIC, error, TIT2, TPE1, TALB, TCON
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
+from songDownloader import download_song
 
 # Load environment variables from .env file
 env_path = os.path.join(os.path.dirname(__file__), '.env')
@@ -77,46 +76,19 @@ def get_playlist_tracks(playlist_url):
     return songs
 
 
-class YTDlpLogger:
-    """Silence yt-dlp logs by implementing a no-op logger."""
-    def debug(self, msg):
-        pass
-
-    def info(self, msg):
-        pass
-
-    def warning(self, msg):
-        pass
-
-    def error(self, msg):
-        pass
-
-
 def download_from_youtube(song):
-    """Download song from YouTube and convert to MP3"""
-    query = f"{song['artist']} {song['title']}"
-    ydl_opts = {
-        'format': 'bestaudio/best',
-        'outtmpl': os.path.join(DOWNLOAD_DIR, f"{song['title']}.%(ext)s"),
-        'quiet': True,
-        'no_warnings': True,
-        'logger': YTDlpLogger(),
-        'postprocessors': [
-            {'key': 'FFmpegExtractAudio', 'preferredcodec': 'mp3', 'preferredquality': '192'}
-        ],
-        # Reduce ffmpeg chatter to errors only
-        'postprocessor_args': ['-loglevel', 'error'],
-    }
-
-    with YoutubeDL(ydl_opts) as ydl:
-        print(f"🎧 Downloading: {query}")
-        ydl.download([f"ytsearch1:{query}"])
-
-    return os.path.join(DOWNLOAD_DIR, f"{song['title']}.mp3")
+    """Download song from YouTube using songDownloader utility"""
+    print(f"🎧 Downloading: {song['artist']} - {song['title']}")
+    success = download_song(song['title'], song['artist'], DOWNLOAD_DIR)
+    
+    if success:
+        # songDownloader outputs as mp3 with format: "Track.mp3"
+        return os.path.join(DOWNLOAD_DIR, f"{song['title']}.mp3")
+    return None
 
 
 def apply_metadata(mp3_path, song):
-    """Apply Spotify metadata and cover art"""
+    """Apply Spotify metadata and cover art to mp3 file"""
     try:
         audio = MP3(mp3_path, ID3=ID3)
         try:
@@ -124,8 +96,7 @@ def apply_metadata(mp3_path, song):
         except error:
             pass
 
-        # Apply text metadata
-                # Apply text metadata
+        # Apply text metadata using ID3 tags
         audio["TIT2"] = TIT2(encoding=3, text=song['title'])
         audio["TPE1"] = TPE1(encoding=3, text=song['artist'])
         audio["TALB"] = TALB(encoding=3, text=song['album'])
@@ -144,6 +115,7 @@ def apply_metadata(mp3_path, song):
                     data=img_data,
                 )
             )
+        
         audio.save()
         print(f"✅ Tagged: {song['artist']} - {song['title']}\n")
     except Exception as e:
@@ -154,8 +126,11 @@ def process_song(song):
     """Download and apply metadata to a single song (for threading)"""
     try:
         mp3_path = download_from_youtube(song)
-        apply_metadata(mp3_path, song)
-        return True, song['title']
+        if mp3_path:
+            apply_metadata(mp3_path, song)
+            return True, song['title']
+        else:
+            return False, song['title']
     except Exception as e:
         print(f"⚠️ Error processing {song['title']}: {e}")
         return False, song['title']
