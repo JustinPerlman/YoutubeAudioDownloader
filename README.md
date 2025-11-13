@@ -1,4 +1,4 @@
-# YoutubeAudioDownloader
+# Spotify Playlist Syncer
 
 A powerful Spotify playlist downloader with GUI and CLI interfaces. Downloads tracks from Spotify playlists as high-quality MP3s with full metadata (title, artist, album, genre, and album artwork). Automatically tracks download history per-playlist to avoid re-downloading songs you already have.
 
@@ -27,7 +27,7 @@ History files are stored in `playlists/<playlist_id>.csv` with artist, title, an
 
 - **Python 3.9+** (tested on macOS and Windows)
 - **Spotify Developer Application** (free - see setup below)
-- **ffmpeg or avconv** (for audio conversion)
+- **ffmpeg (for audio conversion)
 
 All Python dependencies are in `requirements.txt`:
 - `spotipy` - Spotify Web API client
