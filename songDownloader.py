@@ -16,7 +16,7 @@ def _build_command(search_query: str, output_template: str) -> List[str]:
         "yt-dlp",
         "-x",  # extract audio
         "--audio-format",
-        "mp3",  # MP3 format
+        "m4a",  # M4A format
         "--audio-quality",
         "0",  # best available quality
         "--quiet",  # keep stdout clean for callers
@@ -24,6 +24,22 @@ def _build_command(search_query: str, output_template: str) -> List[str]:
         output_template,
         f"ytsearch1:{search_query}",
     ]
+
+
+def sanitize_filename(filename: str) -> str:
+    """Remove or replace characters that are invalid in filenames."""
+    # Replace forward slashes with a safe character
+    filename = filename.replace('/', '-')
+    # Replace other problematic characters
+    filename = filename.replace('\\', '-')
+    filename = filename.replace(':', '-')
+    filename = filename.replace('*', '')
+    filename = filename.replace('?', '')
+    filename = filename.replace('"', "'")
+    filename = filename.replace('<', '')
+    filename = filename.replace('>', '')
+    filename = filename.replace('|', '-')
+    return filename
 
 
 def download_song(track_name: str, artist: str, download_folder: str) -> bool:
@@ -39,9 +55,13 @@ def download_song(track_name: str, artist: str, download_folder: str) -> bool:
     """
     if not os.path.exists(download_folder):
         os.makedirs(download_folder, exist_ok=True)
+    
     search_query = f"{artist} - {track_name}"
-    output_template = os.path.join(download_folder, f"{track_name}.%(ext)s")
+    # Sanitize track name for filesystem
+    safe_track_name = sanitize_filename(track_name)
+    output_template = os.path.join(download_folder, f"{safe_track_name}.%(ext)s")
     command = _build_command(search_query, output_template)
+
     try:
         subprocess.run(command, check=True, capture_output=True, text=True)
         return True

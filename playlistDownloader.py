@@ -6,11 +6,10 @@ from dotenv import load_dotenv
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
-from mutagen.mp3 import MP3
-from mutagen.id3 import ID3, APIC, error, TIT2, TPE1, TALB, TCON
+from mutagen.mp4 import MP4
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-from songDownloader import download_song
+from songDownloader import download_song, sanitize_filename
 
 # Load environment variables from .env file
 env_path = os.path.join(os.path.dirname(__file__), '.env')
@@ -142,39 +141,28 @@ def download_from_youtube(song):
     success = download_song(song['title'], song['artist'], DOWNLOAD_DIR)
     
     if success:
-        # songDownloader outputs as mp3 with format: "Track.mp3"
-        return os.path.join(DOWNLOAD_DIR, f"{song['title']}.mp3")
+        # songDownloader outputs as m4a with sanitized filename
+        safe_title = sanitize_filename(song['title'])
+        return os.path.join(DOWNLOAD_DIR, f"{safe_title}.m4a")
     return None
 
 
-def apply_metadata(mp3_path, song):
-    """Apply Spotify metadata and cover art to mp3 file"""
+def apply_metadata(m4a_path, song):
+    """Apply Spotify metadata and cover art to m4a file"""
     try:
-        audio = MP3(mp3_path, ID3=ID3)
-        try:
-            audio.add_tags()
-        except error:
-            pass
+        audio = MP4(m4a_path)
 
-        # Apply text metadata using ID3 tags
-        audio["TIT2"] = TIT2(encoding=3, text=song['title'])
-        audio["TPE1"] = TPE1(encoding=3, text=song['artist'])
-        audio["TALB"] = TALB(encoding=3, text=song['album'])
+        # Apply text metadata using MP4 tags
+        audio["\xa9nam"] = song['title']  # Title
+        audio["\xa9ART"] = song['artist']  # Artist
+        audio["\xa9alb"] = song['album']  # Album
         if song['genre']:
-            audio["TCON"] = TCON(encoding=3, text=song['genre'])
+            audio["\xa9gen"] = song['genre']  # Genre
 
         # Apply album art
         if song['cover_url']:
             img_data = requests.get(song['cover_url']).content
-            audio.tags.add(
-                APIC(
-                    encoding=3,
-                    mime="image/jpeg",
-                    type=3,
-                    desc=u"Cover",
-                    data=img_data,
-                )
-            )
+            audio["covr"] = [img_data]
         
         audio.save()
         print(f"✅ Tagged: {song['artist']} - {song['title']}\n")
@@ -185,9 +173,9 @@ def apply_metadata(mp3_path, song):
 def process_song(song, csv_path):
     """Download and apply metadata to a single song (for threading)"""
     try:
-        mp3_path = download_from_youtube(song)
-        if mp3_path:
-            apply_metadata(mp3_path, song)
+        m4a_path = download_from_youtube(song)
+        if m4a_path:
+            apply_metadata(m4a_path, song)
             save_downloaded_track(csv_path, song)
             return True, song['title']
         else:
